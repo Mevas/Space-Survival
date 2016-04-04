@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "title": "Clock",
+    "weight": 2,
+    "stackable": false,
+    "description": "You do have to know the time, right?",
+    "slug": "clock"
+  },
+  {
+    "id": 1,
+    "title": "Energy Core",
+    "weight": 5,
+    "stackable": false,
+    "description": "An energy source that can power basic machines.",
+    "slug": "energy_core"
+  },
+  {
+    "id": 2,
+    "title": "Scrap",
+    "weight": 1,
+    "stackable": true,
+    "description": "The most basic crafting material.",
+    "slug": "scrap"
+  },
+  {
+    "id": 3,
+    "title": "Energy Crystal",
+    "weight": 1,
+    "stackable": true,
+    "description": "Crystals that appear to have some sort of energy within them.",
+    "slug": "energy_crystal"
+  }
+]
